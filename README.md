@@ -1,4 +1,5 @@
-# Banguat
+# Banguat  
+Proyecto desarrollado en PyCharm.  
 
 ### Instalación  
 Para ejecutar el proyecto es necesario instalar Selenium:  
