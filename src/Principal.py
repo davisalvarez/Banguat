@@ -35,7 +35,7 @@ while(can):
         moneda = input("->")
         print("")
         SearchByRange(year1, year2, moneda)
-        #SearchByRange("15-07-2020", "19-08-2020", "USD")
+        #SearchByRange("15-07-2015", "31-12-2020", "EU")
     elif(var=='3'):
         can = False
         print("Hasta la próxima!")
